@@ -26,7 +26,7 @@ function Footer() {
             <a href="#facebook" className="text-white mx-2">
               <FontAwesomeIcon icon={faFacebook} size="2x" />
             </a>
-            <a href="https://x.com/SaiAdusumilli1" className="text-white mx-2">
+            <a href="https://x.com/PratapThondapu" className="text-white mx-2">
               <FontAwesomeIcon icon={faTwitter} size="2x" />
             </a>
             <a
